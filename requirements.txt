@@ -1,0 +1,5 @@
+pyserial>=3.5
+pillow>=10.0.0
+sv-ttk>=2.6.0
+pystray>=0.19.5
+pyinstaller>=6.0.0

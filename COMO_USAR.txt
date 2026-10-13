@@ -1,0 +1,13 @@
+=== TURING SMART SCREEN 3.5 - GALERIA E RELOGIO ===
+
+Como usar:
+1. Conecte sua telinha USB no computador.
+2. De dois cliques em 'TuringGallery.exe'.
+3. Escolha o modo:
+   - 'Internet': Busca wallpapers aleatorios de animes em alta definicao direto do Wallhaven.
+   - 'Galeria Local': Passa as imagens que voce colocar na pasta 'ARTES'.
+4. Ajuste o tempo (10 segundos, 15 segundos, etc.).
+5. Clique em 'Minimizar para Segundo Plano' para ocultar a janela. O aplicativo continuara rodando quieto no cantinho do relogio do Windows!
+
+Para adicionar imagens proprias:
+- Basta colar qualquer imagem (PNG, JPG, WebP) dentro da pasta 'ARTES'.
